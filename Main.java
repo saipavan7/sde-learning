@@ -5,6 +5,7 @@ public class Main {
         System.out.println("---Starting my sde journey!!!");
         System.out.println("Customer changes are in progress");
         System.out.println("Customer changes are in done");
+        System.out.println("Merge changes are in done");
 
     }
 }
